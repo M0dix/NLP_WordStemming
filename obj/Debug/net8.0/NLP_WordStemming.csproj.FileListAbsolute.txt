@@ -1,0 +1,14 @@
+C:\Users\yufin\source\repos\NLP\NLP_WordStemming\bin\Debug\net8.0\NLP_WordStemming.exe
+C:\Users\yufin\source\repos\NLP\NLP_WordStemming\bin\Debug\net8.0\NLP_WordStemming.deps.json
+C:\Users\yufin\source\repos\NLP\NLP_WordStemming\bin\Debug\net8.0\NLP_WordStemming.runtimeconfig.json
+C:\Users\yufin\source\repos\NLP\NLP_WordStemming\bin\Debug\net8.0\NLP_WordStemming.dll
+C:\Users\yufin\source\repos\NLP\NLP_WordStemming\bin\Debug\net8.0\NLP_WordStemming.pdb
+C:\Users\yufin\source\repos\NLP\NLP_WordStemming\obj\Debug\net8.0\NLP_WordStemming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yufin\source\repos\NLP\NLP_WordStemming\obj\Debug\net8.0\NLP_WordStemming.AssemblyInfoInputs.cache
+C:\Users\yufin\source\repos\NLP\NLP_WordStemming\obj\Debug\net8.0\NLP_WordStemming.AssemblyInfo.cs
+C:\Users\yufin\source\repos\NLP\NLP_WordStemming\obj\Debug\net8.0\NLP_WordStemming.csproj.CoreCompileInputs.cache
+C:\Users\yufin\source\repos\NLP\NLP_WordStemming\obj\Debug\net8.0\NLP_WordStemming.dll
+C:\Users\yufin\source\repos\NLP\NLP_WordStemming\obj\Debug\net8.0\refint\NLP_WordStemming.dll
+C:\Users\yufin\source\repos\NLP\NLP_WordStemming\obj\Debug\net8.0\NLP_WordStemming.pdb
+C:\Users\yufin\source\repos\NLP\NLP_WordStemming\obj\Debug\net8.0\NLP_WordStemming.genruntimeconfig.cache
+C:\Users\yufin\source\repos\NLP\NLP_WordStemming\obj\Debug\net8.0\ref\NLP_WordStemming.dll
